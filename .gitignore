@@ -48,6 +48,11 @@ Thumbs.db
 output*.avi
 *.mp4
 *.avi
+drowsiness_detection_output.avi
+
+# Statistics and logs
+detection_stats_*.json
+drowsiness_detection.log
 
 # Temporary files
 *.tmp
